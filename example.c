@@ -6,6 +6,6 @@
 
 
 int main(){
-    xyzViewer("RocheLimit2.xyz","Test.html");
+    xyzViewer("example.xyz","example.html");
     return 0;
 }
