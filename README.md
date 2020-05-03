@@ -10,7 +10,7 @@ This application will generate a standalone html file for the animation with jus
 [Click Here](https://lomanhei.github.io/xyzViewer/example.html)
 
 ## Guideline:
-1. Download the C header file, [xyzViewer.h](https://lomanhei.github.io/xyzViewer/xyzViewer.h)
+1. Download the C header file, [xyzViewer.h](xyzViewer.h)
 2. Include the header file in your C source code, and call the API:
 ```c
 // Here is an example
