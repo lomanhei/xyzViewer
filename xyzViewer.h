@@ -1,7 +1,5 @@
 unsigned int stringHash(void *string)
 {
-	/* This is the djb2 string hash function */
-
 	unsigned int result = 995381;
 	unsigned char *p;
 
